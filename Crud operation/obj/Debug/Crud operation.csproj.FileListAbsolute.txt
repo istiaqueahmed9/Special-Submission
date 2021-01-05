@@ -1,0 +1,10 @@
+C:\Users\istiaque ahmed\source\repos\Crud operation\Crud operation\bin\Debug\Crud operation.exe.config
+C:\Users\istiaque ahmed\source\repos\Crud operation\Crud operation\bin\Debug\Crud operation.exe
+C:\Users\istiaque ahmed\source\repos\Crud operation\Crud operation\bin\Debug\Crud operation.pdb
+C:\Users\istiaque ahmed\source\repos\Crud operation\Crud operation\obj\Debug\Crud operation.csprojAssemblyReference.cache
+C:\Users\istiaque ahmed\source\repos\Crud operation\Crud operation\obj\Debug\Crud_operation.Form1.resources
+C:\Users\istiaque ahmed\source\repos\Crud operation\Crud operation\obj\Debug\Crud_operation.Properties.Resources.resources
+C:\Users\istiaque ahmed\source\repos\Crud operation\Crud operation\obj\Debug\Crud operation.csproj.GenerateResource.cache
+C:\Users\istiaque ahmed\source\repos\Crud operation\Crud operation\obj\Debug\Crud operation.csproj.CoreCompileInputs.cache
+C:\Users\istiaque ahmed\source\repos\Crud operation\Crud operation\obj\Debug\Crud operation.exe
+C:\Users\istiaque ahmed\source\repos\Crud operation\Crud operation\obj\Debug\Crud operation.pdb
